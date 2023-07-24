@@ -1,0 +1,1 @@
+print("Ideas:\n\tNothing\n\t\tNothing\n\t\t\tNothing")
